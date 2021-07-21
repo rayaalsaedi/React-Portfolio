@@ -1,0 +1,40 @@
+.Photo {
+  background-image: url("../styles/photo.jpg");
+}
+.project1 {
+  background-image: url("../styles/codingquiz.png");
+  cursor: none;
+}
+.project2 {
+  background-image: url("../styles/password.png");
+  cursor: none;
+}
+.project3 {
+  background-image: url("../styles/dayplanner.png");
+  cursor: none;
+}
+.project4 {
+  background-image: url("../styles/notetaker.gif");
+  cursor: none;
+}
+.project5 {
+  background-image: url("../styles/employeetracker.gif");
+  cursor: none;
+}
+.project6 {
+  background-image: url("../styles/employeedirectory.png");
+  cursor: none;
+}
+
+.misc1 {
+  background-image: url ("../styles/project1.png");
+  cursor: none;
+}
+.misc2 {
+  background-image: url("../styles/project2.png");
+  cursor: none;
+}
+.misc3 {
+  background-image: url("../styles/project3.png");
+  cursor: none;
+}
