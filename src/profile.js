@@ -5,10 +5,9 @@ const animation = {
 };
 
 const header = {
-  name: "Raya Alsaedi",
+  name: "Raya Abd",
 };
 const background = {
-  
   type: "Snow",
 };
 
@@ -117,7 +116,7 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch: "If you need help working on a cool project, please contact me.",
-  copyright: "Raya Alsaedi",
+  copyright: "Raya Abd",
   contactUrl: "",
 };
 
