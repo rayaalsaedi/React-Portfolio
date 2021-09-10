@@ -126,7 +126,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/rayaabd/",
 
   resume:
-    "https://docs.google.com/document/d/1nMKjy5Ty55oP5mo700Kj9rYINGkpr_fk/edit?usp=sharing&ouid=100906303791051358453&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1uLyq62q1cHIgSPE32WTOr-zyb_p-jJ9B/view?usp=sharing",
 };
 
 export {
