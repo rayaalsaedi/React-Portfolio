@@ -47,18 +47,18 @@ const skillsBar = [
   },
   {
     name: "React",
-    faClass: "fas fa-timesreact",
+    faClass: "fa fa-code",
   },
   {
     name: "Mongo",
-    faClass: "fas fa-mongodb",
+    faClass: "fa fa-code",
   },
 ];
 const section3Title = "Past Projects";
 const projects = [
   {
     id: "project1",
-    name: "Qoding Quiz",
+    name: "Coding Quiz",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/rayaalsaedi/Code-Quiz",
   },
@@ -117,7 +117,7 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch: "If you need help working on a cool project, please contact me.",
   copyright: "Raya Abd",
-  contactUrl: "",
+  contactUrl: "rayamabd@gmail.com",
 };
 
 const social = {

@@ -40,14 +40,14 @@ const Header = () => {
         </label>
         <HeaderButton />
       </div>
-      <img
+      {/* <img
         id="not-dark"
         onClick={scrollTo}
         alt="Contact Me"
         title="Contact Me"
         className="gtp"
-        src="download.png"
-      ></img>
+        src=""
+      ></img> */}
     </div>
   );
 };
